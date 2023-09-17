@@ -28,7 +28,7 @@ Rafael Angelin <a href="https://rafaelangelin.com.br" target="_blank">(Angelin, 
 Status do Projeto: Em desenvolvimento :warning:
 </p>
 
-## Atuação
+<h1>Atuação</h1>
 Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
 
