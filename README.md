@@ -19,7 +19,7 @@ Rafael Angelin <a href="https://github.com/RafaAngelin" target="_blank">(Angelin
 <p align="center">
 <b>Email</b>: <a href="mailto:rafael.angelin@escola.pr.gov.br" target="_blank">rafael.angelin@escola.pr.gov.br</a> <br>
 <b>Formação</b>: <a href="https://portal.utfpr.edu.br/cursos/graduacao/licenciatura/licenciatura-em-informatica" target="_blank">Licenciado em informática</a>
-  <p>-</p>
+-
 <a href="https://portal.utfpr.edu.br/campus/franciscobeltrao" target="_blank">Campus Francisco Beltrão</a> <br>
 </p>
 
