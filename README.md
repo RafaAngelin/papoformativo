@@ -35,5 +35,15 @@ Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 <hr>
 
 ```bash
+#include <stdio.h>
 
+int main() {
+    int vida = 1;
+
+    if () {
+        printf("Dar certo!\n");
+    }
+
+    return 0;
+}
 ```
