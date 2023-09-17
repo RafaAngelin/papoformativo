@@ -36,6 +36,4 @@ Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
 ```bash
 
-
-
 ```
