@@ -28,16 +28,9 @@ Rafael Angelin <a href="https://github.com/RafaAngelin" target="_blank">(Angelin
 Status do Projeto: Em desenvolvimento :warning:
 </p>
 
-# Atuação
-Professor. 
-
-As configurações necessárias para realizar a criação do banco são as seguintes:
+## Atuação
+Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
 ```bash
- "Server=127.0.0.1;" +
- "Database=e-battle;" +
- "User ID=postgres;" +
- "Password=senha;";
-```
 
 ```
