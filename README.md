@@ -12,14 +12,14 @@ Rafael Angelin
 </p>
  
 <p align="center">
-Rafael Angelin <a href="https://rafaelangelin.com.br" target="blank">(Angelin, R.)</a>
+Rafael Angelin <a href="https://rafaelangelin.com.br" target="_blank">(Angelin, R.)</a>
 </p>
 
 <p align="center">
-<b>Email</b>: <a href="mailto:rafael.angelin@escola.pr.gov.br" target="blank">rafael.angelin@escola.pr.gov.br</a> <br>
-<b>Formação</b>: <a href="https://portal.utfpr.edu.br/cursos/graduacao/licenciatura/licenciatura-em-informatica" target="blank">Licenciado em informática</a>
+<b>Email</b>: <a href="mailto:rafael.angelin@escola.pr.gov.br" target="_blank">rafael.angelin@escola.pr.gov.br</a> <br>
+<b>Formação</b>: <a href="https://portal.utfpr.edu.br/cursos/graduacao/licenciatura/licenciatura-em-informatica" target="_blank">Licenciado em informática</a>
 -
-<a href="https://portal.utfpr.edu.br/campus/franciscobeltrao" target="blank">UTFPR Campus Francisco Beltrão</a> <br>
+<a href="https://portal.utfpr.edu.br/campus/franciscobeltrao" target="_blank">UTFPR Campus Francisco Beltrão</a> <br>
 </p>
 
 <p align="center">
