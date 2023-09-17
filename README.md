@@ -34,6 +34,7 @@ Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
 <hr>
 
+##Por que nada na vida dá certo?!
 ```bash
 #include <stdio.h>
 
@@ -41,10 +42,9 @@ int main() {
     int vida = 1;
 
     if () {
-        printf("Da certo!\n");
+        printf("Dar certo!\n");
     }
 
     return 0;
 }
-//Por que nada na vida da certo?!
 ```
