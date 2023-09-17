@@ -4,7 +4,6 @@
 <br> <br>
 Rafael Angelin
 
-  
 </h1>
 <p align="center">
   <a href="https://github.com/RafaAngelin">
@@ -30,9 +29,6 @@ Status do Projeto: Em desenvolvimento :warning:
 
 <h2>Atuação:</h2>
 Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
-
-
-<hr>
 
 <h2>Por que nada na vida dá certo?!</h2>
 
