@@ -16,10 +16,9 @@ Rafael Angelin
 Rafael Angelin <a href="https://github.com/RafaAngelin" target="_blank">(Angelin, R.)</a>
 </p>
 
-<p align="center">  
-<b>Profissão</b>: <a href="#" target="_blank">LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria </a> <br>
+<p align="center">
 <b>Email</b>: <a href="mailto:rafael.angelin@escola.pr.gov.br" target="_blank">rafael.angelin@escola.pr.gov.br</a> <br>
-<b>Formação</b>: <a href="http://portal.utfpr.edu.br" target="_blank">Universidade Tecnológica Federal do Paraná</a>
+<b>Formação</b>: <a href="#" target="_blank">Licenciado em informática</a>
 <a href="https://portal.utfpr.edu.br/campus/franciscobeltrao" target="_blank"> - Campus Francisco Beltrão</a> <br>
 </p>
 
