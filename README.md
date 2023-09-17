@@ -13,14 +13,14 @@ Rafael Angelin
 </p>
  
 <p align="center">
-<b>Equipe:</b>  
 Rafael Angelin <a href="https://github.com/RafaAngelin" target="_blank">(Angelin, R.)</a>
 </p>
 
 <p align="center">  
-<b>Grupo</b>: <a href="https://www.lamia.sh.utfpr.edu.br/" target="_blank">LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria </a> <br>
-<b>Email</b>: <a href="mailto:lamia-sh@utfpr.edu.br" target="_blank">lamia-sh@utfpr.edu.br</a> <br>
-<b>Organização</b>: <a href="http://portal.utfpr.edu.br" target="_blank">Universidade Tecnológica Federal do Paraná</a> <a href="http://www.utfpr.edu.br/campus/santahelena" target="_blank"> - Campus Santa Helena</a> <br>
+<b>Profissão</b>: <a href="#" target="_blank">LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria </a> <br>
+<b>Email</b>: <a href="mailto:rafael.angelin@escola.pr.gov.br" target="_blank">rafael.angelin@escola.pr.gov.br</a> <br>
+<b>Formação</b>: <a href="http://portal.utfpr.edu.br" target="_blank">Universidade Tecnológica Federal do Paraná</a>
+<a href="https://portal.utfpr.edu.br/campus/franciscobeltrao" target="_blank"> - Campus Francisco Beltrão</a> <br>
 </p>
 
 <p align="center">
