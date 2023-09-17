@@ -28,13 +28,13 @@ Rafael Angelin <a href="https://rafaelangelin.com.br" target="_blank">(Angelin, 
 Status do Projeto: Em desenvolvimento :warning:
 </p>
 
-<h1>Atuação</h1>
+<h2>Atuação</h2>
 Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
 
 <hr>
 
-## Por que nada na vida dá certo?!
+<h2>Por que nada na vida dá certo?!</h2>
 ```bash
 #include <stdio.h>
 
