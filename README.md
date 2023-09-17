@@ -8,7 +8,7 @@ Rafael Angelin
 </h1>
 <p align="center">
   <a href="https://github.com/RafaAngelin">
-    <img src="https://img.shields.io/badge/Follow-Lab%20Page-blue" alt="Lab">
+    <img src="https://img.shields.io/badge/Follow-My%20Page-blue" alt="page">
   </a> 
 </p>
  
