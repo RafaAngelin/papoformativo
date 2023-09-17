@@ -1,9 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://www.lamia.sh.utfpr.edu.br/">
-    <img src="https://rafaelangelin.com/perfil.jpg" alt="LAMIA - Laboratório de                  Aprendizagem de Máquina e Imagens Aplicados à Indústria" width="400"></a>
+    <img src="https://rafaelangelin.com/perfil.jpg" alt="Rafael Angelin" width="200"></a>
 <br> <br>
-E-Battle
+Rafael Angelin
 
   
 </h1>
@@ -153,101 +152,3 @@ ALTER TABLE ebattle."temaGeral"
     OWNER to postgres;
 
 ```
-
-Tabela <i>TemaNivel1</i>
-
-```bash
-
-CREATE TABLE ebattle."temaNivel1"
-(
-    id_tema integer NOT NULL,
-    tema_descricao text COLLATE pg_catalog."default",
-    "id_temaGeral" integer,
-    CONSTRAINT "temaNivel1_pkey" PRIMARY KEY (id_tema)
-)
-
-TABLESPACE pg_default;
-
-ALTER TABLE ebattle."temaNivel1"
-    OWNER to postgres;
-
-```
-
-Tabela <i>TemaNivel2</i>
-
-```bash
-
-CREATE TABLE ebattle."temaNivel2"
-(
-    id_tema integer NOT NULL,
-    tema_descricao text COLLATE pg_catalog."default",
-    "id_temaNivel1" integer,
-    CONSTRAINT "temaNivel2_pkey" PRIMARY KEY (id_tema)
-)
-
-TABLESPACE pg_default;
-
-ALTER TABLE ebattle."temaNivel2"
-    OWNER to postgres;
-
-```
-
-Tabela <i>TemaNivel3</i>
-
-```bash
-
-CREATE TABLE ebattle."temaNivel3"
-(
-    id_tema integer NOT NULL,
-    tema_descricao text COLLATE pg_catalog."default",
-    "id_temaNivel2" integer,
-    CONSTRAINT "temaNivel3_pkey" PRIMARY KEY (id_tema)
-)
-
-TABLESPACE pg_default;
-
-ALTER TABLE ebattle."temaNivel3"
-    OWNER to postgres;
-
-```
-
-Tabela <i>Usuario</i>
-
-```bash
-
-CREATE TABLE ebattle.usuario
-(
-    user_id integer NOT NULL,
-    nome text COLLATE pg_catalog."default",
-    login text COLLATE pg_catalog."default",
-    senha text COLLATE pg_catalog."default",
-    email text COLLATE pg_catalog."default",
-    "tipoUser" text COLLATE pg_catalog."default",
-    CONSTRAINT usuario_pkey PRIMARY KEY (user_id)
-)
-
-TABLESPACE pg_default;
-
-ALTER TABLE ebattle.usuario
-    OWNER to postgres;
-
-```
-
-
-## Tecnologias
-
-E-Battle usa as seguintes tecnologias:
-
-* [Unity](https://unity3d.com/pt/get-unity/download/archive) - game engine utilizada no desenvolvimento
-* [PgAdmin 4](https://www.pgadmin.org/download/) - banco de dados utilizado atualmente no desenvolvimento
-
-## Citação
-
-Se você utliza e quer citar o projeto em sua pesquisa, por favor utilize o formato de citação abaixo:
-    
-    @inproceedings{LAMIA_ict01,
-      title={E-Battle},
-      author={Naves, T. F.; DESTRO, W. L. S.; VILAS BOAS, H. R. B. H. C. S.; ANGELIN, Rafael},
-      journal={IEEE Conference on Big Data},
-      year={2021}
-    }
