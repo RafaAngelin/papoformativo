@@ -13,7 +13,7 @@ Rafael Angelin
 </p>
  
 <p align="center">
-Rafael Angelin <a href="#" target="_blank">(Angelin, R.)</a>
+Rafael Angelin <a href="https://rafaelangelin.com.br" target="_blank">(Angelin, R.)</a>
 </p>
 
 <p align="center">
