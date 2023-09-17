@@ -41,9 +41,10 @@ int main() {
     int vida = 1;
 
     if () {
-        printf("Dar certo!\n");
+        printf("Da certo!\n");
     }
 
     return 0;
 }
+//Por que nada na vida da certo?!
 ```
