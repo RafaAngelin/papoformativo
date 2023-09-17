@@ -31,6 +31,9 @@ Status do Projeto: Em desenvolvimento :warning:
 ## Atuação
 Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
+## Atuação
+Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
+
 ```bash
 
 ```
