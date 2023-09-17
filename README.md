@@ -34,7 +34,7 @@ Professor do ensino médio no curso Técnido em Desenvolvimento de Sistemas.
 
 <hr>
 
-##Por que nada na vida dá certo?!
+## Por que nada na vida dá certo?!
 ```bash
 #include <stdio.h>
 
