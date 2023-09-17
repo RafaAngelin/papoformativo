@@ -7,18 +7,14 @@ Rafael Angelin
   
 </h1>
 <p align="center">
-  <a href="https://www.lamia.sh.utfpr.edu.br/">
+  <a href="https://github.com/RafaAngelin">
     <img src="https://img.shields.io/badge/Follow-Lab%20Page-blue" alt="Lab">
   </a> 
 </p>
  
 <p align="center">
 <b>Equipe:</b>  
-<br>
-Thiago Naves <a href="https://github.com/tfnaves" target="_blank"> (Naves, T. F.)</a> - Coordenador   <br>
-Wagner Destro <a href="https://github.com/wagnerDestro" target="_blank">(Destro, W. L. S.)</a> - Membro Líder<br>
-Heitor Vilas Boas <a href="https://github.com/heitorVilasBoas" target="_blank">(Vilas Boas, H. R. B. H. C. S.)</a> - Membro Líder <br>
-Rafael Angelin <a href="https://github.com/RafaAngelin" target="_blank">(Angelin, R.)</a> - Membro Líder
+Rafael Angelin <a href="https://github.com/RafaAngelin" target="_blank">(Angelin, R.)</a>
 </p>
 
 <p align="center">  
