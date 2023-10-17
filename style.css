@@ -3,7 +3,7 @@ body{
     color: white;
 }
 
-p{
+.paragrafo{
     font-size: 40px;
     color: red;
 }
